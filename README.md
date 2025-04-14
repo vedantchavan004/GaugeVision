@@ -31,7 +31,7 @@ pip install ultralytics opencv-python matplotlib pillow numpy
 
 Ensure you have:
 - `valve3.png` - test image containing an analog gauge and QR code
-- `best.pt` - a trained YOLOv8-pose model suitable for gauge keypoints
+- `best.pt` - a trained YOLOv11-pose model suitable for gauge keypoints
 
 ---
 
